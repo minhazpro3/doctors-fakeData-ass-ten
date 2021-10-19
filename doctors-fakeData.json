@@ -6,6 +6,7 @@
       "experience": "MBBS,GC (Pathology), MCPS (Clinical Pathology), FCPS(Haematology)",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 54555455854,
+      "description": "Clinical pathology (Medical Laboratory) is a medical specialty that is concerned with the diagnosis of disease based on the laboratory analysis of bodily fluids, such as blood, urine, and tissue homogenates or extracts using the tools of chemistry, microbiology, hematology and molecular pathology. This specialty requires a medical residency.",
       "img": "https://image.freepik.com/free-photo/smile-happiness-nurse-medical-arab-strong_1291-31.jpg"
     },
     {
@@ -15,6 +16,7 @@
       "experience": "MBBS, Diploma in Anesthesiology, FCPS Anesthesiology ",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 48754213952,
+      "description": "Anesthesiology is the medical specialty concerned with the total perioperative care of patients before, during and after surgery. It encompasses anesthesia, intensive care medicine, critical emergency medicine, and pain medicine. A physician specialized in anesthesiology is called an anesthesiologist.",
       "img": "https://i.ibb.co/5hSndsp/01.jpg"
     },
     {
@@ -24,15 +26,17 @@
       "experience": "MBBS DMRT,FCPS (RadioTherapy)",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 87954214785,
+      "description": "Radiation therapy or radiotherapy, often abbreviated RT, RTx, or XRT, is a therapy using ionizing radiation, generally provided as part of cancer treatment to control or kill malignant cells and normally delivered by a linear accelerator. Radiation therapy may be curative in a number of types of cancer if they are localized to one area of the body",
       "img": "https://i.ibb.co/QF5B9s1/02.jpg"
     },
     {
       "id": 4,
       "name": " (Dr.) F.A. Andy",
       "job": "Consultant",
-      "experience": "MBBS, MS (Surgery), MCH (Surgical Oncology",
+      "experience": "MBBS, MS (Surgery), MCH (Surgical Oncology)",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 87954221423,
+    "description": "As one of several modalities in the management of cancer, the specialty of surgical oncology has evolved in steps similar to medical oncology (pharmacotherapy for cancer), which grew out of hematology, and radiation oncology, which grew out of radiology. The Ewing Society known today as the Society of Surgical Oncology was started by surgeons interested in promoting the field of oncology.",  
       "img": "https://i.ibb.co/PYhJsGn/03.jpg"
     },
     {
@@ -42,6 +46,7 @@
       "experience": "MBBS, Ph.D. Card. (Osaka University), FRCP (Glasgow)",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 2589741369,
+      "description": "Glasgow (Scots: Glesga; Scottish Gaelic: Glaschu) is the most populous city in Scotland and the fourth-most populous city in the United Kingdom, as well as being the 27th largest city by population in Europe.[6] In 2020, it had an estimated population of 635,640. Historically part of Lanarkshire, the city now forms the Glasgow City council area, ",
       "img": "https://i.ibb.co/dfWdPxc/05.jpg"
     },
     {
@@ -51,6 +56,7 @@
       "experience": "MBBS, D.Card (DU), FCPS (Medicine)",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 2414741369,
+      "description": "Medicine is the science and practice of caring for a patient, managing the diagnosis, prognosis, prevention, treatment, palliation of their injury or disease, and promoting their health. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness. Contemporary medicine applies biomedical sciences, ",
       "img": "https://i.ibb.co/LJt51KW/04.jpg"
     },
     {
@@ -60,6 +66,7 @@
       "experience": "MBBS, MD (Cardiolory), MRCP (UK)",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 2414724369,
+      "description": "Cardiology (from Greek καρδίᾱ kardiā, 'heart' and -λογία -logia, 'study') is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology. ",
       "img": "https://image.freepik.com/free-photo/afro-american-doctor-with-stethoscope-showing-okay-gesture-isolated-gray-background_231208-2224.jpg"
     },
     {
@@ -69,6 +76,7 @@
       "experience": "MBBS, MS (Cardiothoracic & Vascular Surgery)",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 2874124369,
+      "description": "Cardiothoracic surgery is the field of medicine involved in surgical treatment of organs inside the thoracic cavity — generally treatment of conditions of the heart (heart disease), lungs (lung disease), and other pleural or mediastinal structures.",
       "img": "https://image.freepik.com/free-photo/serious-confident-doctor-looking-aside-holding-hands-folded_171337-5809.jpg"
     },
     {
@@ -78,6 +86,7 @@
       "experience": "MBBS, DA (South Africa), FCS (South Africa), FRCSC (Canada)",
       "hospital": "AHS Southcrest Hospital, LLC dba Hillcrest Hospital South",
       "phone": 2885415369,
+      "description": "Bachelor of Medicine, Bachelor of Surgery (Latin: Medicinae Baccalaureus, Baccalaureus Chirurgiae; abbreviated in many ways, most commonly MBBS, but also MB ChB, BMBS, MB BCh, MB BChir and BM BCh), is the primary medical degree awarded by medical schools in countries that follow the tradition of the United Kingdom. ",
       "img": "https://image.freepik.com/free-photo/doctor-with-patient-physiotherapy-clinic_1157-38652.jpg"
     }
   ]
